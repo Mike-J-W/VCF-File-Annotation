@@ -1,5 +1,5 @@
 # VCF-File-Annotation
-A collection of scripts to add custom annotations to VCF files, developed as part of my work at the UDP (NIH)
+A collection of scripts to add custom annotations to VCF files, developed as part of my work at the UDP (NIH).  The script named Annotation_Manager.sh the one with which the user interacts. A help statement can be produced by launching the script with no arguments.  It is designed to work with Biowulf, the NIH's computing cluster.
 
 
 
